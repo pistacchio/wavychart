@@ -71,8 +71,7 @@ Call <code>wavychart()</code> with the following options:
 
 The following example generates the chart dipicted above
 
-<pre><code>
-
+```html
 <!doctype html>
 <html lang="en">
 	<head>
@@ -105,5 +104,4 @@ The following example generates the chart dipicted above
 	    </script>
 	</body>
 </html>	
-
-</code></pre>
+```
